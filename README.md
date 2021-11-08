@@ -3,7 +3,7 @@ Javascript in Browser - Common Web APIs (Module 3 - Fundamentals)
 I made a To Do List the stores the infromation in the user's browser using Local Storage API.
 
 To Do List:
-  * The Date is at the top of the list. Using new Date ()
+  * The Date is at the top of the list.  new Date ()
 
   * Add item to the list at the bottom of the form. It will be stored in the browser, even if the browser is refreshed. It is stored using localStorage API, which stores the infromation in the user's browser.
 
