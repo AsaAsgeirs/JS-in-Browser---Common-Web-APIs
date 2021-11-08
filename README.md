@@ -9,7 +9,7 @@ To Do List:
 
   * Click the circle icon for the item that you have finished and the circle will get a green check mark but the item will not disappear from the list
 
-  * Removeing the item from the list you can click on the trash can icon and then it will disappear from the list aswell as from Local Storage.
+  * Removing the item from the list you can click on the trash can icon and then it will disappear from the list aswell as from Local Storage.
   
   * To refresh the whole list you can click the arrow-circle icon in the right top corner. Then all the iteams will disappear from Local Storage and you can make a new list.
 
