@@ -36,4 +36,9 @@ How websites use APIs:
 <-- The FRONTEND-TIED approach. -->
   * Is the most modern web frameworks use client-side rendering. They send a blank HTML file to the browser along with JavaScript that fills it with data. In this case, it takes data from the internal API. This is handy for us beacause if it is dine with our browser we can find it.
 
+-----------------------------------------------------------
+Single Page Application (SPA)
+* A single-page application is an app that doesn't need to reload the page during it use and works within a browser. 
+* Like the apps we use on a daily basis, Facebook, Google Maps, Gmail, Twitter or even GitHub. All these are examples of a SPA.
+
 
