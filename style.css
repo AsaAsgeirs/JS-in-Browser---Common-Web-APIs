@@ -8,7 +8,7 @@ body{
 
 .container{
     display: table;
-    max-width: 550px;
+    max-width: 250px;
     width: 100%;
     margin: 10% auto 0;
     background-color: #fff;

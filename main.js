@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', UI.displayToDo)
 
 // if press ENTER then call addNewToDo() from UI
 document.addEventListener("keyup", function(){
-    if(event.keyCode == 13){  // EVENT event/Event ?? 
+    if(event.keyCode == 13){  
         const toDoItem = input.value;
         // a little validation
         if(toDoItem){
