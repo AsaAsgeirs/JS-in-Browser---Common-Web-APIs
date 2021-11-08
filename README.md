@@ -5,7 +5,7 @@ I made a To Do List the stores the infromation in the user's browser using Local
 To Do List:
   * The Date is at the top of the list.  new Date ()
 
-  * Add item to the list at the bottom of the form. It will be stored in the browser, even if the browser is refreshed. It is stored using localStorage API, which stores the infromation in the user's browser.
+  * Add a new item to the list at the bottom of the form. The item will be stored in the browser, even if the browser is refreshed. It is stored using localStorage API, which stores the infromation in the user's browser.
 
   * Click Check-circle for the item that you have finished and the circle will get a green check mark but it will not disappear from the list
 
